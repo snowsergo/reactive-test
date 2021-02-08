@@ -9,7 +9,6 @@ export default class Form extends Component {
     value: this.fullName(this.props.user),
   };
 
-  //тоже вынести в хелпер
   toggleForm = () => {
     if (this.props.activeForm > this.props.number) {
       this.props.nextFormOpen(this.props.number);
@@ -28,7 +27,6 @@ export default class Form extends Component {
     event.target.classList.add(classes.active);
   };
 
-  //dвынести в хелпер
   fullName(user) {
     return user.surname + ' ' + user.name[0] + '. ' + user.patronymic[0] + '.';
   }

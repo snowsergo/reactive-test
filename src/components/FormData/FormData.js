@@ -8,7 +8,6 @@ export default class Form extends Component {
     user: this.props.user,
   };
 
-  //тоже вынести в хелпер
   toggleForm = () => {
     if (
       this.props.activeForm > this.props.number ||

@@ -1,7 +1,6 @@
 import React from 'react';
 import classes from './Intro.module.css';
 import eagle from '../../icons/eagle.svg';
-// import user from '../../icons/user.svg';
 const Intro = () => {
   return (
     <div className={classes.Intro}>
