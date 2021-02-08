@@ -1,0 +1,39 @@
+.Layout{
+    max-width:1440px;
+    background: #E5E5E5;
+    display: block;
+    margin:auto;
+    
+}
+
+@font-face {
+    font-family: 'GOSTUI';
+    src: url('../../fonts/GostUI_Regular.TTF') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GOSTUI';
+    src: url('../../fonts/GostUI_Medium.TTF') format('truetype');
+    font-weight: medium;
+    font-style: medium;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GOSTUI';
+    src: url('../../fonts/GostUI_Bold_G.TTF') format('truetype');
+    font-weight: bold;
+    font-style: bold;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SF Pro Display';
+    src: url('../../fonts/SFProDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

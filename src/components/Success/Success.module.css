@@ -1,0 +1,56 @@
+.Form {
+  background: #fff;
+  border-radius: 4px;
+  width: 736px;
+  margin-top: 24px;
+  margin-left: 160px;
+}
+
+.Form form {
+  display: flex;
+  flex-direction: column;
+  padding-left: 96px;
+  padding-right: 96px;
+  padding-bottom: 24px;
+  font-family: GOSTUI;
+}
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Form button {
+  padding: 0;
+  box-sizing: border-box;
+  height: 48px;
+  width: 256px;
+  border: none;
+  font-family: GOSTUI;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  background: #0061d9;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.Form button:last-of-type {
+  background: transparent;
+  color: #0050b2;
+  border: 1px solid rgba(0, 80, 178, 0.5);
+}
+
+.Form p {
+  margin: 0;
+  padding: 0;
+  font-family: GOSTUI;
+  font-weight: normal;
+  font-size: 18px;
+  margin-bottom: 24px;
+}
+
+.Form a {
+  text-decoration: none;
+  color: #0061d9;
+}

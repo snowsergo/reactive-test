@@ -1,0 +1,106 @@
+.Form {
+  background: #fff;
+  border-radius: 4px;
+  width: 736px;
+  margin-top: 24px;
+  margin-left: 160px;
+}
+
+.Form input {
+  height: 48px;
+  cursor: pointer;
+  border: 1px solid rgba(59, 66, 86, 0.5);
+  box-sizing: border-box;
+  border-radius: 4px;
+  padding: 0;
+  padding-left:12px;
+  font-family: GOST UI 2;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.Form form {
+  display: flex;
+  flex-direction: column;
+  padding-left: 96px;
+  padding-right: 192px;
+  padding-bottom: 24px;
+  font-family: GOSTUI;
+
+}
+
+.Form .serial {
+  display: flex;
+  width:100%;
+  justify-content: space-between; 
+}
+
+.Form .serial div {
+  display: flex;
+  flex-direction: column;
+}
+
+.Form button {
+  padding: 0;
+  margin-top: 16px;
+  box-sizing: border-box;
+  height: 48px;
+  border: none;
+  font-family: GOSTUI;
+  font-size: 18px;
+  background: #0061d9;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.Form label {
+  font-family: GOSTUI;
+  font-weight: normal;
+  font-size: 18px;
+  margin-bottom: 8px;
+  margin-top: 16px;
+}
+
+.Form p {
+  margin: 0;
+  padding: 0;
+  font-family: GOSTUI;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 24px;
+}
+
+.date {
+  display: flex;
+  justify-content: space-between;
+}
+
+.date p {
+  margin: 0;
+  margin-bottom: 8px;
+  color: #848e99;
+  box-sizing: border-box;
+  font-weight: normal;
+ 
+}
+
+.date .day {
+  width: 120px;
+}
+
+.number {
+  width: 256px;
+ 
+}
+
+.subnumber {
+  width: 160px;
+ 
+}
+
+.date .year {
+  width:176px;
+}

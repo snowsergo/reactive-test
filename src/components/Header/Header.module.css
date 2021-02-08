@@ -1,0 +1,47 @@
+.Header {
+  background: #3684e2;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  height: 88px;
+  align-items: center;
+  padding-left: 160px;
+  padding-right: 160px;
+  position: fixed;
+  width: 1440px;
+  box-sizing: border-box;
+  z-index: 10;
+}
+
+.logo {
+  display: flex;
+}
+
+.logo p {
+  margin-left: 21px;
+  font-family: GOSTUI;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.Auth {
+  display: flex;
+  align-items: center;
+}
+
+.Auth p {
+  margin-left: 15px;
+  font-family: GOSTUI;
+  font-size: 18px;
+}
+
+.Auth button {
+  background: transparent;
+  border: none;
+  color: #fff;
+  margin-left: 28px;
+  font-family: GOSTUI;
+  font-size: 18px;
+  outline: none;
+  cursor: pointer;
+}
