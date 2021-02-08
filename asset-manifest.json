@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reactive-test/static/css/main.516099f6.chunk.css",
+    "main.js": "/reactive-test/static/js/main.4c08fb4e.chunk.js",
+    "main.js.map": "/reactive-test/static/js/main.4c08fb4e.chunk.js.map",
+    "runtime-main.js": "/reactive-test/static/js/runtime-main.cd17fb3d.js",
+    "runtime-main.js.map": "/reactive-test/static/js/runtime-main.cd17fb3d.js.map",
+    "static/js/2.915fe8c6.chunk.js": "/reactive-test/static/js/2.915fe8c6.chunk.js",
+    "static/js/2.915fe8c6.chunk.js.map": "/reactive-test/static/js/2.915fe8c6.chunk.js.map",
+    "static/js/3.e240dd6f.chunk.js": "/reactive-test/static/js/3.e240dd6f.chunk.js",
+    "static/js/3.e240dd6f.chunk.js.map": "/reactive-test/static/js/3.e240dd6f.chunk.js.map",
+    "index.html": "/reactive-test/index.html",
+    "static/css/main.516099f6.chunk.css.map": "/reactive-test/static/css/main.516099f6.chunk.css.map",
+    "static/js/2.915fe8c6.chunk.js.LICENSE.txt": "/reactive-test/static/js/2.915fe8c6.chunk.js.LICENSE.txt",
+    "static/media/Layout.module.css": "/reactive-test/static/media/SFProDisplay-Regular.1e1c0e29.ttf",
+    "static/media/bell.4ff5c109.svg": "/reactive-test/static/media/bell.4ff5c109.svg",
+    "static/media/check.6699bee3.svg": "/reactive-test/static/media/check.6699bee3.svg",
+    "static/media/eagle.4d6a36c9.svg": "/reactive-test/static/media/eagle.4d6a36c9.svg",
+    "static/media/emblem.f7da459b.svg": "/reactive-test/static/media/emblem.f7da459b.svg",
+    "static/media/user.183c0793.svg": "/reactive-test/static/media/user.183c0793.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd17fb3d.js",
+    "static/js/2.915fe8c6.chunk.js",
+    "static/css/main.516099f6.chunk.css",
+    "static/js/main.4c08fb4e.chunk.js"
+  ]
+}
